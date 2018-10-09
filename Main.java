@@ -109,6 +109,7 @@ class Main{
 		 				System.out.println("nested default case1!!"+ fea);
 					}	
 				}while(fea != 0 && fea <=4);
+			break;
 	
 	case 2: 	do{	System.out.println("Features: \n 1) Make a call(Dual Sim) \n 2) Send Message \n 3) open Radio\n 4) Open Bluetooth\n 5) Start video call\n 6)Install Software\n 7) Choose feature to use :");
 				fea = scanner.nextInt();
@@ -131,6 +132,7 @@ class Main{
 		 				System.out.println("nested default case2!!"+fea);
 					}	
 				}while(fea != 0 && fea <=5);
+			break;
 	case 3: 	do{	System.out.println("Features: \n 1) Make a call(Dual Sim) \n 2) Send Message \n 3) open Radio\n 4) Install Software\n 5) Start video call\n 6)Open Itunes\n 7) Choose feature to use :");
 				fea = scanner.nextInt();
 				switch(fea){
@@ -153,6 +155,7 @@ class Main{
 		 				System.out.println("nested default case3!!"+fea);					
 				}	
 				}while(fea != 0 && fea <=6);
+			break;
 	default:
 		System.out.println(" default case!!");
 	
