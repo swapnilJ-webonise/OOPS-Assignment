@@ -1,4 +1,3 @@
-package oops;
 
 public class IOs extends Cellphone implements multimedia{
 

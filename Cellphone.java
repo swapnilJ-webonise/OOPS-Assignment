@@ -1,4 +1,3 @@
-package oops;
 
 public abstract class Cellphone {
 abstract int makeCall(int simno,String contactname);

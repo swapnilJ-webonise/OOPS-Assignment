@@ -1,4 +1,3 @@
-package oops;
 
 public class Android extends Cellphone implements Connection,multimedia{
 

@@ -1,4 +1,3 @@
-package oops;
 
 public interface multimedia {
 

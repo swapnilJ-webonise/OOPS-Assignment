@@ -1,4 +1,3 @@
-package oops;
 
 public class FeaturePhone extends Cellphone implements Connection{
 
